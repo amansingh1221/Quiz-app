@@ -81,9 +81,3 @@ Here is the link: quiz-app-aman.vercel.app
 ## Authors
 
 * **Aman Singh** - *Computer Science and Engineering Student* - [Aman Singh](https://github.com/amansingh1221) - *Built Quiz app*
-
-## Acknowledgements
-
-* [ShaanCoding](https://github.com/ShaanCoding/)
-* [Othneil Drew](https://github.com/othneildrew/Best-README-Template)
-* [ImgShields](https://shields.io/)
