@@ -1,6 +1,6 @@
 <br/>
 <p align="center">
-  <a href="https://github.com/AmanSingh1221/ReadME-Generator">
+  <a href="https://github.com/amansingh1221/Quiz-app">
     <img src="icon.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -10,18 +10,18 @@
     Challenge your mind, expand your knowledge - Quiz app, the ultimate learning experience!
     <br/>
     <br/>
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/amansingh1221/Quiz-app"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator">View Demo</a>
+    <a href="https://github.com/amansingh1221/Quiz-app">View Demo</a>
     .
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator/issues">Report Bug</a>
+    <a href="https://github.com/amansingh1221/Quiz-app/issues">Report Bug</a>
     .
-    <a href="https://github.com/AmanSingh1221/ReadME-Generator/issues">Request Feature</a>
+    <a href="https://github.com/amansingh1221/Quiz-app/issues">Request Feature</a>
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/AmanSingh1221/ReadME-Generator/total) ![Contributors](https://img.shields.io/github/contributors/AmanSingh1221/ReadME-Generator?color=dark-green) ![Forks](https://img.shields.io/github/forks/AmanSingh1221/ReadME-Generator?style=social) ![Issues](https://img.shields.io/github/issues/AmanSingh1221/ReadME-Generator) ![License](https://img.shields.io/github/license/AmanSingh1221/ReadME-Generator) 
+![Downloads](https://img.shields.io/github/downloads/amansingh1221/Quiz-app/total) ![Contributors](https://img.shields.io/github/contributors/amansingh1221/Quiz-app?color=dark-green) ![Forks](https://img.shields.io/github/forks/amansingh1221/Quiz-app?style=social) ![Issues](https://img.shields.io/github/issues/amansingh1221/Quiz-app) ![License](https://img.shields.io/github/license/amansingh1221/Quiz-app) 
 
 ## Table Of Contents
 
